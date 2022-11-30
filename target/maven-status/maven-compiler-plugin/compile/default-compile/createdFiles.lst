@@ -1,0 +1,5 @@
+com\rewards\point\calculation\demo\controller\RewardsController.class
+com\rewards\point\calculation\demo\service\RewardsService.class
+com\rewards\point\calculation\demo\controller\RewardsController$ProductServiceController.class
+com\rewards\point\calculation\demo\model\CustomerTransaction.class
+com\rewards\point\calculation\demo\RewardsApplication.class
